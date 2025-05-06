@@ -151,6 +151,7 @@ Use scanf to input the file name into the name array and the number of strings i
 5.	Return 0 to indicate successful program execution.
  
 ## Program:
+```
 #include <stdio.h> 
 int main()
 {
