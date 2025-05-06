@@ -240,11 +240,8 @@ int main()
 }
 
 ```
-## Output:
+## Output :
 ![image](https://github.com/user-attachments/assets/6af74a8b-cf34-4ec4-b5b1-d13171613cf7)
 
 ## Result:
 Thus, the program is verified successfully
-
-
-
