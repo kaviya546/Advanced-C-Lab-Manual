@@ -200,3 +200,8 @@ void display()
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/4d5cf78e-2888-450d-bd9c-6374a97e77cb)
+
+## Result:
+
+Thus, the program to retrieve the "peek" (the front element) of a queue implemented using a linked list is verified successfully.
+
